@@ -51,7 +51,7 @@ const year = (new Date()).getFullYear()
 
 .header__title img {
   margin-top: 28px;
-  margin-left: 12px;
+  margin-left: 25px;
 }
 
 .footer {
@@ -167,6 +167,6 @@ body {
 }
 
 .return svg {
-  margin-top: -3px;
+  margin-top: -2px;
 }
 </style>
