@@ -6,19 +6,14 @@ import { Site } from "@/variables"
     <div class="floatGoal">
         <h3>Book a demo</h3>
         <p>{{ Site.salesText }}</p>
-
-
         <div id="mc_embed_shell">
 
             <div id="mc_embed_signup">
-                <a class="button" href="https://arret-sur-image.fr/#offres">
+                <a class="button" href="https://govpro.ai/contact">
                     Get started
                 </a>
             </div>
         </div>
-
-
-
 
         <!--<span>{{ Site.salesAction }}</span> -->
     </div>
