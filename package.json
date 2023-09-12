@@ -1,0 +1,31 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@sanity/types": "^3.16.2",
+    "@types/node": "^18.17.14",
+    "nuxt": "^3.7.0",
+    "nuxt-gtag": "^1.0.0",
+    "postcss": "^8.4.29",
+    "postcss-nested": "^6.0.1"
+  },
+  "dependencies": {
+    "@nuxtjs/google-fonts": "^3.0.0",
+    "@nuxtjs/sanity": "^1.7.0",
+    "@sanity/image-url": "^1.0.2",
+    "axios": "^1.5.0",
+    "bootstrap": "^5.3.1",
+    "bootstrap-vue": "^2.23.1",
+    "groq": "^3.9.1",
+    "vue": "^3.3.4",
+    "vue-analytics": "^5.22.1",
+    "vue-social-sharing": "^4.0.0-alpha4"
+  }
+}

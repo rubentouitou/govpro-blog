@@ -1,0 +1,1 @@
+function c(e){return new Date(e).toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"})}const u=String.raw||((e,...t)=>{const n=e.length-1;return e.slice(0,n).reduce((r,a,o)=>r+a+t[o],"")+e[n]});export{c as f,u as g};
