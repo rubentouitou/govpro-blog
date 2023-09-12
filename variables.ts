@@ -4,7 +4,7 @@ export const Site = {
   name: 'GovPro AI',
 
   // The base of the blog (important for slugs)
-  url: 'https://blog.govpro.ai',
+  url: 'https://articles.govpro.ai',
 
   // The website you want people to visit
   goal: 'https://govpro.ai',
