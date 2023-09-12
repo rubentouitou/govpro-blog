@@ -53,7 +53,7 @@ html {
 .post__content a {
   text-decoration: none;
   color: var(--strong-font-color);
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .header {
