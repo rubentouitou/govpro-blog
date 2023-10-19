@@ -62,7 +62,6 @@ export default {
       <div v-else class="post__cover--none" />
       <div class="post__container">
         <h1 class="post__title">{{ post.title }}</h1>
-        <p class="post__date">{{ formatDate(post._createdAt) }}</p>
         <SocialShare :link="path" :title="post.title" />
         <GoToGoal />
         <div v-if="post.body" class="post__content">

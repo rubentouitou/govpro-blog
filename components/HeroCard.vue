@@ -28,7 +28,6 @@ export default {
               </a>
             </h3>
             <p class="card__excerpt">{{ post.excerpt }}</p>
-            <p class="card__date">{{ formatDate(post._createdAt) }}</p>
           </div>
         </div>
       </div>
